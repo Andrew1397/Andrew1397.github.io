@@ -1,6 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Birthday Calendar//ua//
+CALSCALE:GREGORIAN
+PRODID:-//Family Birthday Calendar//ua//
+X-WR-CALNAME:Сімейні дні народження
+X-WR-TIMEZONE:Europe/Kyiv
+
 BEGIN:VEVENT
 SUMMARY:День народження: День народження св
  яткує Глушко (Юско-Смерека) Валентина Ів
@@ -187,3 +191,4 @@ UID:ebc2f572-dd6c-4b20-9319-7b134d78666a
 RRULE:FREQ=YEARLY
 END:VEVENT
 END:VCALENDAR
+
