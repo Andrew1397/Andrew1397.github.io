@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Family Birthday Calendar//ua//
+X-WR-CALNAME:Сімейні дні народження
+X-WR-TIMEZONE:Europe/Kyiv
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Глушко (Юс
+ ко-Смерека) Валентина Іванівна
+DTSTART;VALUE=DATE:19680807
+UID:0d853977-35e6-4e8d-81af-05a07589db04
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Смерека Ва
+ силь Васильович
+DTSTART;VALUE=DATE:19721001
+UID:06950d9a-7cae-4989-831d-523e7983ddca
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Удут (Глуш
+ ко) Лідія Василівна
+DTSTART;VALUE=DATE:19910821
+UID:ec037543-5075-45d3-9776-3050a6a741ec
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Удут Михай
+ ло Михайлович
+DTSTART;VALUE=DATE:19890822
+UID:0a710a8d-2bdb-41de-b92f-9fe73862dd64
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Удут Нікол
+ ета Михайлівна
+DTSTART;VALUE=DATE:20151220
+UID:cfb552a7-8992-4cc0-857b-3770bc677604
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Удут Вален
+ тин Михайлович
+DTSTART;VALUE=DATE:20170809
+UID:6d248a58-48ff-42af-a049-87cb71a338d8
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Юско Іван 
+ Іванович
+DTSTART;VALUE=DATE:19691015
+UID:772e8050-ec59-4235-8037-8a0c16e89fb9
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Юско Васил
+ ь Іванович
+DTSTART;VALUE=DATE:19750618
+UID:8b859455-71d1-4d4f-a28a-dbd50a7911fc
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Юско (Мигл
+ ис (Щока)) Оксана
+DTSTART;VALUE=DATE:19730628
+UID:f6284575-62fc-4d88-9408-89a68ba3eae5
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Миглис Вас
+ иль
+DTSTART;VALUE=DATE:19950627
+UID:700b5345-0d96-4cde-8aaf-09ad6a1c4a48
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Нергеш (Ми
+ глис) Славка
+DTSTART;VALUE=DATE:19950627
+UID:a7cab831-3a5e-4137-83a6-2221a024543e
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Нергеш Вас
+ иль
+DTSTART;VALUE=DATE:19910620
+UID:7435371a-ec5c-4870-aeb8-0bf6de35c869
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Нергеш Емі
+ лія Василівна
+DTSTART;VALUE=DATE:20211209
+UID:15ac7ba7-e026-4473-8663-4e8350c46188
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Юско Олекс
+ андр Васильович
+DTSTART;VALUE=DATE:20090423
+UID:05d0d317-3b6b-47af-b76a-2331f089f76e
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Плескач (К
+ обаль) Ганна Михайлівна
+DTSTART;VALUE=DATE:19540102
+UID:a244bd8a-ca68-4cbd-ad37-6598925b466b
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Плескач Ва
+ силь Іванович
+DTSTART;VALUE=DATE:19500627
+UID:1f3ec588-e996-4dbc-890c-3dac59ffaf82
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Фотул (Пле
+ скач) Сніжана Василівна
+DTSTART;VALUE=DATE:19730716
+UID:bd1c77ce-73ce-4828-8ad9-ede1e30385c3
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Фотул Іван
+  Васильович
+DTSTART;VALUE=DATE:19740607
+UID:4b4ae4fa-4217-4a82-bd6a-f698ccfee6d3
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Фотул Іван
+  Іванович
+DTSTART;VALUE=DATE:19950602
+UID:c5732774-00c6-4942-ab1e-66f440bbdedf
+RRULE:FREQ=YEARLY
+DESCRIPTION:Братішка
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Фотул (Сов
+ бан) Вікторія Василівна
+DTSTART;VALUE=DATE:19960806
+UID:72d8fc8c-b5bf-4c34-814d-399f52ef3268
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Фотул Деві
+ д Іванович
+DTSTART;VALUE=DATE:20181218
+UID:01e279fb-1427-4348-8b09-61c7deb4d7be
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Фотул Сніж
+ ана Іванівна
+DTSTART;VALUE=DATE:20091015
+UID:b6343f27-4858-4f33-9f29-b2a9683deec2
+RRULE:FREQ=YEARLY
+DESCRIPTION:джоні
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Плескач Ва
+ силь Васильович
+DTSTART;VALUE=DATE:19760524
+UID:a30714ed-4504-460d-ad70-8bcea2f9aaa0
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Холонюк Ва
+ лентина Юріївна
+DTSTART;VALUE=DATE:19760604
+UID:3a67acdb-e8f7-4ff2-ae70-9bba73772e6f
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Плескач Ан
+ дрій Васильович
+DTSTART;VALUE=DATE:20000713
+UID:97ab55be-5423-4f8b-8f7a-5f8e63e03d40
+RRULE:FREQ=YEARLY
+DESCRIPTION:Гуси лебеді летіли  в …
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:День народження святкує:  Плескач Ан
+ на Василівна
+DTSTART;VALUE=DATE:20030919
+UID:a18ec0a0-faaf-4b82-ba73-3769784b0323
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+END:VCALENDAR
